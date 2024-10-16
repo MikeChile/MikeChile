@@ -9,7 +9,7 @@ Soy un desarrollador de software con una pasión por la creación de soluciones 
 
 ### 🚧 Proyectos Recientes
 
-- **[Proyecto 1](#)**: proximamente.
+- **[Portafolio](https://mikechile.github.io/portafolio/)**: Desarrollo de mi portafolio principal.
 
 ### 💬 Conéctate conmigo
 
@@ -19,6 +19,7 @@ Soy un desarrollador de software con una pasión por la creación de soluciones 
 ### 🌱 Actualmente Aprendiendo
 
 - **Python**
+- **Analisis de datos**
 
 ### ✨ Intereses
 
