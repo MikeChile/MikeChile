@@ -12,7 +12,10 @@ Soy un desarrollador de software con una pasión por la creación de soluciones 
 
 ## 🚧 Proyectos Recientes
 
-- **[Portafolio](https://mikechile.github.io/portafolio/)**: Desarrollo de mi portafolio principal.
+- **[Portafolio]([https://github.com/MikeChile/cuento_the_ascension_of_the_shadows]))**: Desarrollo Cuento Interactivo de Drama 'The Ascension of The Shadows'.
+- **[Portafolio]([https://github.com/MikeChile/cuento_the_ascension_of_the_shadows]))**: Desarrollo Gestión Escolar en PHP.
+- **[Portafolio]([https://github.com/MikeChile/inventario_laravel]))**: Desarrollo Sistema de Inventario Laravel Tailwind.
+- **[Portafolio]([https://github.com/MikeChile/web_ccm_wp]))**: Desarrollo sitio web wordpres para colegio CCM.
 
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Conéctate conmigo
