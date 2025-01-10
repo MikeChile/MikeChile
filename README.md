@@ -19,7 +19,7 @@ Desarrollador fullstack con experiencia en soluciones web y ERP, experto en meto
 - **[Sitio Web WordPress para el Colegio CCM](https://github.com/MikeChile/web_ccm_wp)**: Desarrollo y diseño de un sitio web institucional para el Colegio Corazón de María, utilizando **WordPress** y técnicas de optimización para SEO y usabilidad.
 
 Puedes explorar más de mis proyectos y trabajos en mi portafolio personal:  
-[Visita mi Portafolio](https://github.com/MikeChile)
+[Visita mi Portafolio](https://mikechile.github.io/portafolio/)
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Conéctate conmigo
 [![Linkedin Badge](https://img.shields.io/badge/-mikedev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/miguel-andrades-951110133](https://www.linkedin.com/in/miguel-andrades-951110133/))]() 
